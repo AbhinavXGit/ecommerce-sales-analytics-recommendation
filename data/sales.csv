@@ -1,0 +1,121 @@
+order_id,order_date,customer_name,product_id,product_name,category,brand,quantity,unit_price,revenue
+1001,2026-06-09,Sneha Das,4,Casual Sneakers,Footwear,Puma,1,1999,1999
+1002,2026-06-04,Vivek Rao,8,Analog Watch,Accessories,Fastrack,1,2299,2299
+1003,2026-05-14,Rahul Sharma,18,Running Shorts,Men,Nike,1,899,899
+1004,2026-02-08,Karan Patel,1,Classic T-Shirt,Men,Roadster,1,799,799
+1005,2026-05-07,Simran Kaur,20,Crossbody Bag,Accessories,Lavie,1,1399,1399
+1006,2026-02-15,Isha Nair,18,Running Shorts,Men,Nike,2,899,1798
+1007,2026-02-23,Arjun Mehta,9,Sports T-Shirt,Men,HRX,1,999,999
+1008,2026-02-07,Ananya Roy,11,Denim Jacket,Men,Roadster,2,1999,3998
+1009,2026-04-04,Ananya Roy,4,Casual Sneakers,Footwear,Puma,1,1999,1999
+1010,2026-03-26,Rahul Sharma,12,Kurta Set,Women,Libas,3,1899,5697
+1011,2026-01-13,Priya Singh,15,Backpack,Accessories,Wildcraft,3,2499,7497
+1012,2026-06-20,Ananya Roy,18,Running Shorts,Men,Nike,2,899,1798
+1013,2026-06-03,Rahul Sharma,19,Sweatshirt,Women,Roadster,1,1499,1499
+1014,2026-01-28,Sneha Das,8,Analog Watch,Accessories,Fastrack,2,2299,4598
+1015,2026-03-15,Vivek Rao,4,Casual Sneakers,Footwear,Puma,2,1999,3998
+1016,2026-03-12,Sneha Das,12,Kurta Set,Women,Libas,1,1899,1899
+1017,2026-06-21,Priya Singh,9,Sports T-Shirt,Men,HRX,3,999,2997
+1018,2026-02-18,Simran Kaur,20,Crossbody Bag,Accessories,Lavie,3,1399,4197
+1019,2026-04-13,Rohan Gupta,8,Analog Watch,Accessories,Fastrack,1,2299,2299
+1020,2026-06-11,Rahul Sharma,18,Running Shorts,Men,Nike,1,899,899
+1021,2026-03-13,Rohan Gupta,8,Analog Watch,Accessories,Fastrack,1,2299,2299
+1022,2026-05-23,Ananya Roy,3,Running Shoes,Footwear,Nike,1,2499,2499
+1023,2026-04-13,Vivek Rao,7,Handbag,Accessories,Lavie,3,1599,4797
+1024,2026-03-05,Sneha Das,15,Backpack,Accessories,Wildcraft,1,2499,2499
+1025,2026-03-24,Isha Nair,18,Running Shorts,Men,Nike,3,899,2697
+1026,2026-04-12,Sneha Das,14,Sunglasses,Accessories,Vogue,3,1299,3897
+1027,2026-04-03,Rahul Sharma,5,Hoodie,Men,HRX,3,1299,3897
+1028,2026-06-06,Vivek Rao,4,Casual Sneakers,Footwear,Puma,1,1999,1999
+1029,2026-01-13,Arjun Mehta,14,Sunglasses,Accessories,Vogue,3,1299,3897
+1030,2026-05-09,Karan Patel,20,Crossbody Bag,Accessories,Lavie,2,1399,2798
+1031,2026-06-04,Vivek Rao,1,Classic T-Shirt,Men,Roadster,3,799,2397
+1032,2026-06-11,Priya Singh,18,Running Shorts,Men,Nike,2,899,1798
+1033,2026-02-15,Rahul Sharma,10,Walking Shoes,Footwear,Skechers,2,2899,5798
+1034,2026-02-17,Priya Singh,9,Sports T-Shirt,Men,HRX,3,999,2997
+1035,2026-05-20,Sneha Das,10,Walking Shoes,Footwear,Skechers,3,2899,8697
+1036,2026-02-18,Karan Patel,5,Hoodie,Men,HRX,2,1299,2598
+1037,2026-03-16,Rahul Sharma,1,Classic T-Shirt,Men,Roadster,3,799,2397
+1038,2026-03-08,Rahul Sharma,4,Casual Sneakers,Footwear,Puma,2,1999,3998
+1039,2026-01-03,Simran Kaur,8,Analog Watch,Accessories,Fastrack,3,2299,6897
+1040,2026-05-25,Aman Kumar,16,Track Pants,Men,HRX,1,1199,1199
+1041,2026-04-18,Aman Kumar,5,Hoodie,Men,HRX,3,1299,3897
+1042,2026-05-14,Sneha Das,9,Sports T-Shirt,Men,HRX,3,999,2997
+1043,2026-06-07,Simran Kaur,18,Running Shorts,Men,Nike,3,899,2697
+1044,2026-06-21,Ananya Roy,10,Walking Shoes,Footwear,Skechers,2,2899,5798
+1045,2026-04-04,Sneha Das,15,Backpack,Accessories,Wildcraft,3,2499,7497
+1046,2026-03-01,Isha Nair,8,Analog Watch,Accessories,Fastrack,1,2299,2299
+1047,2026-05-08,Rahul Sharma,18,Running Shorts,Men,Nike,1,899,899
+1048,2026-06-02,Sneha Das,3,Running Shoes,Footwear,Nike,3,2499,7497
+1049,2026-03-03,Karan Patel,3,Running Shoes,Footwear,Nike,1,2499,2499
+1050,2026-06-16,Sneha Das,8,Analog Watch,Accessories,Fastrack,2,2299,4598
+1051,2026-06-19,Isha Nair,18,Running Shorts,Men,Nike,1,899,899
+1052,2026-04-26,Arjun Mehta,16,Track Pants,Men,HRX,1,1199,1199
+1053,2026-01-22,Arjun Mehta,7,Handbag,Accessories,Lavie,1,1599,1599
+1054,2026-04-15,Simran Kaur,12,Kurta Set,Women,Libas,2,1899,3798
+1055,2026-06-21,Priya Singh,2,Slim Fit Jeans,Men,Levis,3,1499,4497
+1056,2026-06-11,Priya Singh,2,Slim Fit Jeans,Men,Levis,2,1499,2998
+1057,2026-02-18,Neha Verma,8,Analog Watch,Accessories,Fastrack,1,2299,2299
+1058,2026-02-09,Neha Verma,5,Hoodie,Men,HRX,2,1299,2598
+1059,2026-04-26,Karan Patel,8,Analog Watch,Accessories,Fastrack,1,2299,2299
+1060,2026-06-18,Rahul Sharma,4,Casual Sneakers,Footwear,Puma,1,1999,1999
+1061,2026-02-14,Neha Verma,3,Running Shoes,Footwear,Nike,1,2499,2499
+1062,2026-04-02,Aman Kumar,16,Track Pants,Men,HRX,1,1199,1199
+1063,2026-04-09,Neha Verma,13,Heels,Footwear,Metro,1,2199,2199
+1064,2026-06-24,Karan Patel,10,Walking Shoes,Footwear,Skechers,2,2899,5798
+1065,2026-02-10,Sneha Das,16,Track Pants,Men,HRX,1,1199,1199
+1066,2026-06-18,Rahul Sharma,2,Slim Fit Jeans,Men,Levis,3,1499,4497
+1067,2026-01-19,Neha Verma,11,Denim Jacket,Men,Roadster,1,1999,1999
+1068,2026-02-02,Karan Patel,17,Casual Shirt,Men,Roadster,3,1099,3297
+1069,2026-01-20,Priya Singh,3,Running Shoes,Footwear,Nike,1,2499,2499
+1070,2026-01-19,Sneha Das,8,Analog Watch,Accessories,Fastrack,2,2299,4598
+1071,2026-01-20,Priya Singh,19,Sweatshirt,Women,Roadster,3,1499,4497
+1072,2026-05-19,Karan Patel,14,Sunglasses,Accessories,Vogue,3,1299,3897
+1073,2026-02-22,Simran Kaur,11,Denim Jacket,Men,Roadster,2,1999,3998
+1074,2026-03-13,Aman Kumar,11,Denim Jacket,Men,Roadster,1,1999,1999
+1075,2026-03-25,Priya Singh,10,Walking Shoes,Footwear,Skechers,2,2899,5798
+1076,2026-05-19,Priya Singh,1,Classic T-Shirt,Men,Roadster,2,799,1598
+1077,2026-02-17,Rohan Gupta,3,Running Shoes,Footwear,Nike,3,2499,7497
+1078,2026-01-08,Ananya Roy,5,Hoodie,Men,HRX,2,1299,2598
+1079,2026-04-27,Karan Patel,10,Walking Shoes,Footwear,Skechers,1,2899,2899
+1080,2026-06-17,Rahul Sharma,10,Walking Shoes,Footwear,Skechers,3,2899,8697
+1081,2026-06-04,Aman Kumar,18,Running Shorts,Men,Nike,2,899,1798
+1082,2026-01-24,Karan Patel,9,Sports T-Shirt,Men,HRX,1,999,999
+1083,2026-03-20,Sneha Das,5,Hoodie,Men,HRX,2,1299,2598
+1084,2026-06-21,Rohan Gupta,11,Denim Jacket,Men,Roadster,1,1999,1999
+1085,2026-03-28,Rahul Sharma,17,Casual Shirt,Men,Roadster,2,1099,2198
+1086,2026-04-27,Rohan Gupta,3,Running Shoes,Footwear,Nike,3,2499,7497
+1087,2026-03-25,Aman Kumar,2,Slim Fit Jeans,Men,Levis,1,1499,1499
+1088,2026-06-15,Karan Patel,9,Sports T-Shirt,Men,HRX,1,999,999
+1089,2026-01-04,Priya Singh,14,Sunglasses,Accessories,Vogue,3,1299,3897
+1090,2026-01-27,Ananya Roy,5,Hoodie,Men,HRX,3,1299,3897
+1091,2026-02-14,Aman Kumar,19,Sweatshirt,Women,Roadster,3,1499,4497
+1092,2026-03-26,Rahul Sharma,2,Slim Fit Jeans,Men,Levis,2,1499,2998
+1093,2026-06-08,Vivek Rao,12,Kurta Set,Women,Libas,1,1899,1899
+1094,2026-05-28,Arjun Mehta,4,Casual Sneakers,Footwear,Puma,2,1999,3998
+1095,2026-02-08,Aman Kumar,20,Crossbody Bag,Accessories,Lavie,3,1399,4197
+1096,2026-01-06,Simran Kaur,6,Floral Dress,Women,DressBerry,2,1799,3598
+1097,2026-06-28,Simran Kaur,11,Denim Jacket,Men,Roadster,2,1999,3998
+1098,2026-02-26,Simran Kaur,8,Analog Watch,Accessories,Fastrack,2,2299,4598
+1099,2026-01-28,Neha Verma,4,Casual Sneakers,Footwear,Puma,2,1999,3998
+1100,2026-04-12,Rohan Gupta,8,Analog Watch,Accessories,Fastrack,1,2299,2299
+1101,2026-01-22,Sneha Das,8,Analog Watch,Accessories,Fastrack,1,2299,2299
+1102,2026-03-28,Priya Singh,13,Heels,Footwear,Metro,2,2199,4398
+1103,2026-06-17,Arjun Mehta,9,Sports T-Shirt,Men,HRX,2,999,1998
+1104,2026-01-04,Rohan Gupta,18,Running Shorts,Men,Nike,2,899,1798
+1105,2026-03-02,Priya Singh,6,Floral Dress,Women,DressBerry,3,1799,5397
+1106,2026-03-24,Ananya Roy,20,Crossbody Bag,Accessories,Lavie,2,1399,2798
+1107,2026-05-04,Arjun Mehta,14,Sunglasses,Accessories,Vogue,3,1299,3897
+1108,2026-03-02,Simran Kaur,19,Sweatshirt,Women,Roadster,1,1499,1499
+1109,2026-05-26,Karan Patel,14,Sunglasses,Accessories,Vogue,1,1299,1299
+1110,2026-04-03,Vivek Rao,7,Handbag,Accessories,Lavie,2,1599,3198
+1111,2026-03-22,Priya Singh,11,Denim Jacket,Men,Roadster,3,1999,5997
+1112,2026-03-22,Arjun Mehta,10,Walking Shoes,Footwear,Skechers,3,2899,8697
+1113,2026-06-10,Karan Patel,11,Denim Jacket,Men,Roadster,2,1999,3998
+1114,2026-04-22,Arjun Mehta,5,Hoodie,Men,HRX,1,1299,1299
+1115,2026-05-10,Arjun Mehta,6,Floral Dress,Women,DressBerry,3,1799,5397
+1116,2026-03-10,Sneha Das,18,Running Shorts,Men,Nike,1,899,899
+1117,2026-05-21,Ananya Roy,14,Sunglasses,Accessories,Vogue,3,1299,3897
+1118,2026-04-22,Sneha Das,15,Backpack,Accessories,Wildcraft,2,2499,4998
+1119,2026-06-06,Vivek Rao,17,Casual Shirt,Men,Roadster,2,1099,2198
+1120,2026-05-22,Vivek Rao,3,Running Shoes,Footwear,Nike,2,2499,4998
